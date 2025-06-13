@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
-
+// xoa build roi nhung ma khong hieu tai sao van hien thi loi   
 export default defineConfig({
     plugins: [
         laravel({
